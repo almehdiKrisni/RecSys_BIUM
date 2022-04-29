@@ -2,7 +2,8 @@
 
 Repository of Notebooks for the recsys practicals
 
-
+Clone from the teacher's repository.
+[Link to source](https://gitlab.lip6.fr/guigue/recsys)
 
 ## VIDEO OF COURSES:
 
